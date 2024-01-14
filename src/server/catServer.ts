@@ -1,9 +1,7 @@
 import axios from "axios";
-import { Cat } from "../models/Cat";
+import {Cat } from "../models/Cat";
 
-
-
-const apiURL = process.env.REACT_APP_API_URL + "cats" || "";
+const apiURL = process.env.REACT_APP_API_URL + "cats";
 
 export const getCats = async (searchTerm?:string) : Promise<Cat[]> => {
     let response;
@@ -17,7 +15,7 @@ export const getCats = async (searchTerm?:string) : Promise<Cat[]> => {
     return response.data as Cat[];
 } 
 
-export const getPetById = async (id:number) : Promise<Cat> => {
+export const getCatById = async (id:number) : Promise<Cat> => {
     const response = await axios.get(`${apiURL}/${id}`);
 
     return response.data as Cat;

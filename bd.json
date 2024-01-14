@@ -1,0 +1,120 @@
+{
+    "adoptions": [
+      {
+        "firstName": "sdafads",
+        "middleName": "asdfasdf",
+        "lastName": "asdfasf",
+        "hasFencedYard": true,
+        "hasChildren": false,
+        "hasOtherPets": false,
+        "phoneNumber": "",
+        "email": "asdfas@sdafds.com",
+        "aboutSelf": "adsfas",
+        "id": 1
+      },
+      {
+        "firstName": "qwe",
+        "middleName": "qasd",
+        "lastName": "asdfas",
+        "hasFencedYard": false,
+        "hasChildren": true,
+        "hasOtherPets": true,
+        "phoneNumber": "",
+        "email": "asdf@osdf.com",
+        "aboutSelf": "sdidiasd",
+        "id": 2
+      },
+      {
+        "firstName": "Jonathan",
+        "middleName": "ASDF",
+        "lastName": "Hop",
+        "hasFencedYard": false,
+        "hasChildren": true,
+        "hasOtherPets": true,
+        "phoneNumber": "123-456-7890",
+        "email": "info@codingyourcareer.com",
+        "aboutSelf": "Me, I'm me all day long",
+        "id": 3
+      },
+      {
+        "firstName": "Jonathan",
+        "middleName": "ASDF",
+        "lastName": "Hop",
+        "hasFencedYard": false,
+        "hasChildren": true,
+        "hasOtherPets": true,
+        "phoneNumber": "123-456-7890",
+        "email": "info@codingyourcareer.com",
+        "aboutSelf": "Me, I'm me all day long",
+        "id": 4
+      }
+    ],
+    "cats": [
+      {
+        "id": 1,
+        "name": "Simba",
+        "age": 5,
+        "description": "Simba is an independent cat. He's low maintenance and likes quiet homes.",
+        "adopted": false,
+        "image": "1.jpg",
+        "breed": "Calico",
+        "isBoy": true,
+        "isAdopted": false
+      },
+      {
+        "id": 2,
+        "name": "Milo",
+        "age": 3,
+        "description": "Milo is a charming cat. He likes playing with toys and climbing on cat trees.",
+        "adopted": false,
+        "image": "2.jpg",
+        "breed": "Tabby",
+        "isBoy": true,
+        "isAdopted": false
+      },
+      {
+        "id": 3,
+        "name": "Tiger",
+        "age": 2,
+        "description": "Tiger is a fun-loving cat. He's curious and loves exploring around the house.",
+        "adopted": false,
+        "image": "3.jpg",
+        "breed": "Minx",
+        "isBoy": true,
+        "isAdopted": false
+      },
+      {
+        "id": 4,
+        "name": "Luna",
+        "age": 4,
+        "description": "Luna is a sweet cat. She's affectionate and loves to cuddle on the couch.",
+        "adopted": false,
+        "image": "5.jpg",
+        "breed": "Calico",
+        "isBoy": false,
+        "isAdopted": false
+      },
+      {
+        "id": 5,
+        "name": "Luna",
+        "age": 4,
+        "description": "Luna is a sweet cat. She's affectionate and loves to cuddle on the couch.",
+        "adopted": false,
+        "image": "6.jpg",
+        "breed": "Calico",
+        "isBoy": false,
+        "isAdopted": false
+      },
+      {
+        "id": 6,
+        "name": "mima",
+        "age": 4,
+        "description": "Luna is a sweet cat. She's affectionate and loves to cuddle on the couch.",
+        "adopted": false,
+        "image": "7.jpg",
+        "breed": "Calico",
+        "isBoy": false,
+        "isAdopted": false
+      }
+    ]
+  }

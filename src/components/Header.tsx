@@ -1,4 +1,5 @@
 import { Navbar, Container, Nav } from "react-bootstrap";
+import '../components/css/header.css';
 
 export default function Header(){
     return(

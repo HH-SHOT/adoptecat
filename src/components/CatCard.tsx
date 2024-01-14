@@ -1,13 +1,16 @@
 import { Card } from "react-bootstrap";
 import { Cat } from "../models/Cat";
-import '../components/css/petcard.css';
+import '../components/css/catcard.css';
 import { Link } from "react-router-dom";
+
 
 interface CatCardProps{
     cat : Cat
 }
 
-export function CatCard(props:CatCardProps){
+export function CatCard(props: CatCardProps) {
+    
+
     return(
         <Card>
             <Card.Img variant="top" src={`img/${props.cat.image}`}></Card.Img>
