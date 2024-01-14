@@ -2,9 +2,7 @@
     "adoptions": [
       {
         "firstName": "sdafads",
-        "middleName": "asdfasdf",
         "lastName": "asdfasf",
-        "hasFencedYard": true,
         "hasChildren": false,
         "hasOtherPets": false,
         "phoneNumber": "",
@@ -14,9 +12,7 @@
       },
       {
         "firstName": "qwe",
-        "middleName": "qasd",
         "lastName": "asdfas",
-        "hasFencedYard": false,
         "hasChildren": true,
         "hasOtherPets": true,
         "phoneNumber": "",
@@ -26,9 +22,7 @@
       },
       {
         "firstName": "Jonathan",
-        "middleName": "ASDF",
         "lastName": "Hop",
-        "hasFencedYard": false,
         "hasChildren": true,
         "hasOtherPets": true,
         "phoneNumber": "123-456-7890",
@@ -38,9 +32,7 @@
       },
       {
         "firstName": "Jonathan",
-        "middleName": "ASDF",
         "lastName": "Hop",
-        "hasFencedYard": false,
         "hasChildren": true,
         "hasOtherPets": true,
         "phoneNumber": "123-456-7890",
